@@ -3,8 +3,8 @@
 import numpy as np  # linear algebra
 import pandas as pd # data processing, CSV file I/O (e.g. pd.read_csv)
 
-from google.colab import drive
-drive.mount('/content/drive')
+#from google.colab import drive
+#drive.mount('/content/drive')
 
 # read data from file
 test_data = pd.read_csv("test data.csv")
