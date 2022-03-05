@@ -1,6 +1,7 @@
 # Enrollment-Forecast
 
-Goal: ML model that predicts the headcount of male and female students enrolled in various graduate and undergraduate programs in a year. 
+## Goal: 
+ML model that predicts the headcount of male and female students enrolled in various graduate and undergraduate programs in a year. 
 
 Introduction: In today’s society, the superior training of human resources is a necessity. With more and more occupations requiring advanced education, a college degree is not only critical to one’s success in the workforce but also towards leading a better quality of life. Many graduate from college with a sense of accomplishment and discipline, some realize their passion along the way, and almost all, leave with heightened communication and responsibility. However, there are several socio-economic factors that prevent a person from going to college or dropping out in between. Gender is one such factor that has been brought under the scanner recently with universities trying their best to fix the skewed gender ratios on their campuses by encouraging more women to apply.
 
