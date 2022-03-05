@@ -1,0 +1,22 @@
+The dataset provides you demographic data on the students of a University in Canada.
+
+The information is organized in rows, where each row specifies the number of students enrolled (unique headcount) with each combination of attributes.
+
+The information includes:
+
+1. Year - 2008-09 to 2015-16
+2. Term type - Fall term, spring term, winter term
+3. Degree type - Undergraduate, Graduate
+4. Program level - Doctoral, Masters, Non degree and Bachelors
+5. Study year - D (Doctoral), M (Masters), 1, 2, 3, 4
+6. Faculty grouping - ARTS, ENG (engineering), SCI (Science), MATH etc.
+7. Program grouping - Economics, Psychology, Mechanical engineering etc.
+8. Term type - Academic, Co-op
+9. Work Term - Academic term, Work term
+10. Attendance - Full-Time, Part-Time
+11. Visa status - Canadian, International, Canadian Permanent Resident
+12. Gender
+
+Your goal is to predict the unique headcount of students enrolled in each program based on their gender and other attributes associated with the program.
+
+The train and test datasets are split based on time: training data from 2008-09 to 2015-16, while test data are from 2016-17.
